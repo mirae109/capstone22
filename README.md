@@ -16,6 +16,18 @@
 <br/>
 
 
+## 4.27 (8주차)
+#### 완료된 작업 
+1. 민정: 설정 페이지 완료
+2. 미래: 상세글 페이지 완료, 온보딩 페이지 완료
+
+#### 이번주 피드백
+- 온보딩 페이지 디자인이 너무 예쁘게 빠져서 신난다!
+- 웹디자인과 관련해서 민정이와 함께 고민해봐야겠다. 정확한 디자인 방향성을 알려주는 건 어렵다. 
+
+![dfsfsfsdfsdfsf](https://user-images.githubusercontent.com/70610515/165466956-aa98d2e4-39f2-4dd8-93f9-7c7620673357.PNG)
+![sdfsdfdsfsfsfdsfcs](https://user-images.githubusercontent.com/70610515/165466824-5015daba-111b-4838-a247-942da29f65e8.PNG)
+
 
 ## 4.13 (7주차)
 #### 완료된 작업 
