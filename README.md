@@ -15,6 +15,19 @@
 
 <br/>
 
+## 5.19 (11주차)
+#### 완료된 작업 
+1. 민정: 팜플렛 1차 완성
+2. 미래: 랜딩페이지 완성, 목업 작업
+
+#### 이번주 피드백
+- 랜딩페이지가 좀 아쉬움
+- 목업은 포토샵으로 더 만들어볼 예정이다.
+
+<img width="543" alt="캡처" src="https://user-images.githubusercontent.com/70610515/169172671-9ba51d01-e2b6-4eb6-b4c5-ca809b789a54.PNG">
+<img width="418" alt="s" src="https://user-images.githubusercontent.com/70610515/169172676-615d28b0-5f95-4f12-8452-f864e24deee8.PNG">
+
+
 ## 5.11 (10주차)
 #### 완료된 작업 
 1. 민정: 팜플렛 레퍼런스 서치, 스케치하기
