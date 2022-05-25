@@ -2,7 +2,7 @@
 
 - 팀명: 버블 스튜디오
 - 이름: 김미래 (팀장: 디자인 - uiux)
-- 졸업작품 소개 사이트:
+- 졸업작품 소개 사이트: https://catchbe.netlify.app/
 - 팀 노션 페이지: https://efficacious-saturnalia-964.notion.site/c58847e5d31c4686abc0edd380858e25
 
 <br/>
@@ -14,6 +14,18 @@
 - 작품의 특징: 커뮤니티 기능과 함께 캘린더 기능을 함께 제공함. 
 
 <br/>
+## 5.25 (12주차)
+#### 완료된 작업 
+1. 민정: 팜플렛 
+2. 미래: 랜딩페이지 html 완성
+         https://catchbe.netlify.app/
+
+#### 이번주 피드백
+
+
+<img width="960" alt="랜딩" src="https://user-images.githubusercontent.com/70610515/170182915-016ac575-88b0-4b84-bce4-871b511f97c6.PNG">
+
+
 
 ## 5.19 (11주차)
 #### 완료된 작업 
