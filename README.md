@@ -14,6 +14,8 @@
 - 작품의 특징: 커뮤니티 기능과 함께 캘린더 기능을 함께 제공함. 
 
 <br/>
+
+
 ## 5.25 (12주차)
 #### 완료된 작업 
 1. 민정: 팜플렛 
@@ -24,8 +26,7 @@
 - 팜플렛(포스터) 디자인에 대해서 레퍼런스가 부족했던 것 같다. 
 
 <img width="960" alt="랜딩" src="https://user-images.githubusercontent.com/70610515/170182915-016ac575-88b0-4b84-bce4-871b511f97c6.PNG">
-![image](https://user-images.githubusercontent.com/70610515/170207010-1be8b5cf-be9d-43f9-9148-9e9acaf129dc.png)
-
+<img width="274" alt="d" src="https://user-images.githubusercontent.com/70610515/170207957-07f35538-d4bf-4e1d-8c86-0b55d1f7de20.PNG">
 
 
 ## 5.19 (11주차)
