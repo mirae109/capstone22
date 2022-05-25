@@ -21,9 +21,10 @@
          https://catchbe.netlify.app/
 
 #### 이번주 피드백
-
+- 팜플렛(포스터) 디자인에 대해서 레퍼런스가 부족했던 것 같다. 
 
 <img width="960" alt="랜딩" src="https://user-images.githubusercontent.com/70610515/170182915-016ac575-88b0-4b84-bce4-871b511f97c6.PNG">
+![image](https://user-images.githubusercontent.com/70610515/170207010-1be8b5cf-be9d-43f9-9148-9e9acaf129dc.png)
 
 
 
